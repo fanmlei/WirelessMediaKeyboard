@@ -1,0 +1,6 @@
+{
+    "programmer": "AVR ISP",
+    "board": "arduino:avr:leonardo",
+    "sketch": "WirelessMediaKeyboard.ino",
+    "port": "COM15"
+}
